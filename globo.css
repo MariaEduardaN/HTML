@@ -1,0 +1,48 @@
+a{
+    padding-right:80px ;
+}
+.G1{
+    color: red;
+}
+.oglobo{
+    padding-bottom: 10%;
+    color: rgb(46, 75, 238);
+}
+.valor{
+   color: rgb(13, 77, 13)
+}
+.ge{
+    color: forestgreen;
+}
+.globoplay{
+    color: rgba(255, 0, 157, 0.993);
+}
+.cartolaegshow{
+    color: goldenrod;
+}
+.quem{
+    color: rgb(13, 14, 14);
+}
+.receitas{
+    color: rgb(195, 0, 255);
+}
+.gigagloob{
+    color: rgb(0, 255, 170);
+}
+h1{
+    color: firebrick;
+}
+table{
+    padding-top: 20%;
+}
+
+.globo{
+    padding-left: 250px;
+    padding-right: 250px;
+    color: blue;
+    font-size: 1cm;
+}
+
+.menu{
+    padding-left: 0;
+}
