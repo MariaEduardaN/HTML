@@ -1,37 +1,17 @@
-
-.logo{
-  
-   color: aliceblue;
-    justify-content: center;
-    width: 220px;
-    font-family: 'Dancing Script', cursivo;
-    : 'Roboto', sans-serif;
-    
-}
-body{
-    background: rgb(0,0,0);
-    background: linear-gradient(-90deg, rgba(0,0,0,1) 0%, rgba(115,0,0,1) 100%);
-    color: white;
-    font-family: 'Roboto', sans-serif;
-}
-
-.menu{
-    position: relative;    
-    left: 30%;
-    padding-left: 10%;
-    color: white;
-    text-decoration: none;
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Roboto', sans-serif;
-}
-
-.menu:hover{
-    color:red;
-    font-family: 'Roboto', sans-serif;
-}
-
 nav{
-    padding-top: 1%;
-    border-bottom: solid;
-    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    text-align: right;
+    padding: 10px;
+}
+nav ul a{
+    color: aliceblue;
+    font-size: 30px;
+    text-decoration: none;
+}
+nav ul a:hover{
+    color: red;
+}
+nav ul li{
+    display: inline-block;
+    padding: 10px;
 }
