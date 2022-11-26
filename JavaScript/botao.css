@@ -1,0 +1,9 @@
+function verde(){
+    document.getElementById('sinal').style.backgroundColor = 'green'
+}
+function amarelo(){
+    document.getElementById('sinal').style.backgroundColor = 'yellow'
+}
+function vermelho(){
+    document.getElementById('sinal').style.backgroundColor = 'red'
+}
